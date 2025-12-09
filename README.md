@@ -19,12 +19,11 @@
   * Run all cells.
 
 ## Contents: (TBD)
-* `John_Chester_CISC5790_HW3_NB.py` - the main python executable which runs the program
-* `John_Chester_CISC5790_HW3_NB.ipynb` - the notebook I used to create the python program.
-* `John_Chester_CISC5790_HW3_Written.pdf` - the written answers to questions 2-4.
-* `README.md` - this file.
-* `image.png` - the original image of the Eiffel Tower.
-* `{k}_recolored_image.png` - the relevant recolored images of the Eiffel Tower - with k = {2,3,6,10}.
+* `ComprehensiveCode.ipynb` - the notebook which contains our analysis
+* `README.md` - this file
+* `census-income.data.csv` - the training dataset
+* `census-income.test.csv` - the test dataset
+* `census-income.names.txt` - a text file containing information on features
 
 ## Outputs:
 * A variety of visualizations pertaining to EDA.
