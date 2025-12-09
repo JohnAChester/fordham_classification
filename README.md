@@ -10,7 +10,7 @@
   * matplotlib
   * seaborn
   * scikit-learn
-  * 
+  * imblearn
 
 ## How to Run:
 * Using Jupyter
