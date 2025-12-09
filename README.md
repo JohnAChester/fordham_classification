@@ -15,7 +15,7 @@
 ## How to Run:
 * Using Jupyter
   * Navigate in Terminal/Command Prompt to the directory where you extracted the zip file.
-  * Load the jupyter notebook, `John_Chester_CISC5790_HW3_NB.ipynb`, in an environment with the required packages, from above.
+  * Load the jupyter notebook, `ComprehensiveCode.ipynb`, in an environment with the required packages, from above.
   * Run all cells.
 
 ## Contents: (TBD)
