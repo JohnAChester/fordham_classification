@@ -18,7 +18,7 @@
   * Load the jupyter notebook, `ComprehensiveCode.ipynb`, in an environment with the required packages, from above.
   * Run all cells.
 
-## Contents: (TBD)
+## Contents:
 * `ComprehensiveCode.ipynb` - the notebook which contains our analysis
 * `README.md` - this file
 * `census-income.data.csv` - the training dataset
